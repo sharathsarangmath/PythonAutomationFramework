@@ -6,14 +6,14 @@ URL = "http://tutorialsninja.com/demo/index.php?route=common/home"
 
 FIRSTNAME = "Sharath"
 LASTNAME = "Sarangmath"
-EMAIL = "shasa@gmail.com"
+EMAIL = "sharaths@gmail.com"
 PHONE = "8971101030"
 PASSWORD = "12345"
 CONFIRM_PWD = "12345"
 
 #Login details
 
-LogEMAIL="shasa@gmail.com"
+LogEMAIL="sharaths@gmail.com"
 PWD="12345"
 
 import inspect
