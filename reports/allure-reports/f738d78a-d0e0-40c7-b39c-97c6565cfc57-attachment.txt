@@ -1,0 +1,5 @@
+There was an exception error
+
+assert 'Your Account Has Been Created' in 'Register Account'
+ +  where 'Register Account' = <selenium.webdriver.chrome.webdriver.WebDriver (session="51636e2acbe4a76804336794242808c5")>.title
+Final block
